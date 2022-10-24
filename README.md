@@ -1,6 +1,6 @@
 NOTE: My current projects are private repositories. Once finished, I will make them public :)
 # 💫 About Me:
-🔭 I’m currently working on: The Gatsby Bar Inventory App<br>🔭 My upcoming project is: "GymBro: Your Pocket Personal Trainer App"<br><br>🌱 I’m currently learning about: React.js, Express.js, Redux<br><br>📫 Email: ivandjuka777@gmail.com<br>📫 LinkedIn: https://www.linkedin.com/in/ivan-djukic-786460248/<br>📫 Twitter: https://twitter.com/ivandjukic02<br><br>👨‍💻 All of my projects are available at: https://ivandjukic.netlify.app/
+🔭 I’m currently working on: The Gatsby Bar Inventory App (MongoDB, React, Redux, Axios, Framer, Express, HTML, CSS, SASS )<br>🔭 My upcoming project is: "GymBro: Your Pocket Personal Trainer App"<br><br>🌱 I’m currently learning about: React.js, Express.js, Redux<br><br>📫 Email: ivandjuka777@gmail.com<br>📫 LinkedIn: https://www.linkedin.com/in/ivan-djukic-786460248/<br>📫 Twitter: https://twitter.com/ivandjukic02<br><br>👨‍💻 All of my projects are available at: https://ivandjukic.netlify.app/
 
 
 # 💻 Technologies:
